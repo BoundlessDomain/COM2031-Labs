@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/COM2031-Labs.iml" filepath="$PROJECT_DIR$/.idea/COM2031-Labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com2031.lab01.solutions/com2031.lab01.solutions.iml" filepath="$PROJECT_DIR$/com2031.lab01.solutions/com2031.lab01.solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com2031.lab02.solutions/com2031.lab02.solutions.iml" filepath="$PROJECT_DIR$/com2031.lab02.solutions/com2031.lab02.solutions.iml" />
     </modules>
   </component>
 </project>
